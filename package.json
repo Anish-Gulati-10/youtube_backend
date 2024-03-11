@@ -1,0 +1,20 @@
+{
+  "name": "yt_backend",
+  "version": "1.0.0",
+  "description": "backend for yotube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "youtube"
+  ],
+  "author": "Anish Gulati",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
